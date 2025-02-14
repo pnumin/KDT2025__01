@@ -5,7 +5,7 @@
 + pnu40256	우예은 : https://github.com/yeeun234
 + pnu40257	김정백 :
 + pnu40258	권오현 : https://github.com/ohyeon1002
-+ pnu40259	류상현 :
++ pnu40259	류상현 : https://github.com/rsh2231/kd01_html
 + pnu40260	성유기 : https://github.com/Yugi-Seong
 + pnu40262	이원준 : https://github.com/Lee-brary/kd01_html
 + pnu40263	홍지민 :
