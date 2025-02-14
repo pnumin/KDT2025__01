@@ -5,7 +5,7 @@
 + pnu40257	김정백 :
 + pnu40258	권오현 :
 + pnu40259	류상현 :
-+ pnu40260	성유기 :
++ pnu40260	성유기 : https://github.com/Yugi-Seong
 + pnu40262	이원준 :
 + pnu40263	홍지민 :
 + pnu40264	하지원 :
