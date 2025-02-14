@@ -1,6 +1,6 @@
 # KDT2025_01
 + pnu40254	강나현 :
-+ pnu40255	강준혁 :
++ pnu40255	강준혁 : https://github.com/kangjoonhyeok
 + pnu40256	우예은 :
 + pnu40257	김정백 :
 + pnu40258	권오현 :
