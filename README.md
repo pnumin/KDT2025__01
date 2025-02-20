@@ -3,7 +3,7 @@
 + pnu40254	강나현 : https://github.com/nang5587
 + pnu40255	강준혁 : https://github.com/kangjoonhyeok
 + pnu40256	우예은 : https://github.com/yeeun234
-+ pnu40257	김정백 :
++ pnu40257	김정백 : https://github.com/AR384
 + pnu40258	권오현 : https://github.com/ohyeon1002
 + pnu40259	류상현 : https://github.com/rsh2231/kd01_html
 + pnu40260	성유기 : https://github.com/Yugi-Seong
